@@ -1,2 +1,2 @@
 # hello-world
-Basic Stuff
+Basic stuff. Just learning how to use GitHub
